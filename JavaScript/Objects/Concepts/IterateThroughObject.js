@@ -7,3 +7,6 @@ const user = {
 for (key in user) {
   console.log(key, ": ", user[key]);
 }
+for (key in user) {
+  console.log(key, ": ", user[key]);
+}

@@ -11,3 +11,4 @@ console.log(str);
 
 const objstr = JSON.parse(str);
 console.log(objstr);
+console.log(objstr);

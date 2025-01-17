@@ -16,3 +16,4 @@ function multiplyByTwo(obj) {
 }
 
 console.log(nums);
+console.log(nums);

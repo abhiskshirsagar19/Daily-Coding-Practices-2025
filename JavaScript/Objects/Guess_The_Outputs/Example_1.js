@@ -4,3 +4,4 @@ const func = (function (a) {
 })(5);
 
 console.log(func);
+console.log(func);

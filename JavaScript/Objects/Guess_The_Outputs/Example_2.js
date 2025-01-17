@@ -5,3 +5,4 @@ const user = {
 };
 delete user["check this value"];
 console.log(user);
+console.log(user);
